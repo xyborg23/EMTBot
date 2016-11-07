@@ -1,0 +1,15 @@
+{
+  "name": "emtbots",
+  "version": "1.0.0",
+  "description": "EMT using Microsoft Bots",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "botbuilder": "^0.6.5",
+    "restify": "^4.2.0"
+  },
+  "author": "Jobin Sunny",
+  "license": "MIT"
+}
